@@ -51,3 +51,6 @@ def calculator():
 
 if __name__ == "__main__":
     calculator()
+
+
+####This calculator program allows the user to perform basic arithmetic operations (+, -, *, /) on two numbers. It includes error handling for invalid inputs and division by zero. 
