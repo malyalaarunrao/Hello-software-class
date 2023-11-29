@@ -1,5 +1,5 @@
 # Hello-software-class
-here we are paired to understand the git, uses of git, features in git.
+In this Assignment we are paired to understand the git, uses of git, features in git.
 
 ##code 
 def add(x, y):
